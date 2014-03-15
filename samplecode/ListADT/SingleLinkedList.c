@@ -25,7 +25,7 @@ struct Node
 {
 	ElementType Element;
 	Position Next;
-}
+};
 
 /*Return true if L is empty*/
 int IsEmpty(List L)
